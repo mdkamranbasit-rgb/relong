@@ -147,8 +147,6 @@ windcast-project/
 │   ├── package.json
 │   ├── vercel.json
 │   └── vite.config.js
-├── docs/
-│   └── demo-script.md        # 10-minute customer + technical walkthrough
 ├── docker-compose.yml
 ├── render.yaml
 └── README.md
